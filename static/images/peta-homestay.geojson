@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cdc181a61ef1c3dc78b978ab345c644475ad5640abffebac44293d5bc9eb8985
-size 4774
+{
+"name": "Homestay",
+"features": [
+	{ 
+		"type": "Feature", 
+		"properties": { 
+			"title": "Homestay Amanda", 
+			"description": "085215775785" }, 
+		"geometry": { 
+			"type": "Point", 
+			"coordinates": [ 105.683540163051831, -6.524040652244453 ] } 
+	},
+	{ 
+		"type": "Feature", 
+		"properties": { 
+			"title": "Homestay Pak Misnan", 
+			"description": "081284244794" }, 
+		"geometry": { 
+			"type": "Point", 
+			"coordinates": [ 105.682324927494207, -6.525159802894399 ] } 
+	},
+	{ 
+		"type": "Feature", 
+		"properties": { 
+			"title": "Homestay Raffasya", 
+			"description": "085714201502" }, 
+		"geometry": { 
+			"type": "Point", 
+			"coordinates": [ 105.682997986847028, -6.525003330075953 ] } 
+	},
+{ "type": "Feature", "properties": { "title": "Homestay Vina", "description": "081295469507" }, "geometry": { "type": "Point", "coordinates": [ 105.682150466947135, -6.525771336700513 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Firda", "description": "085215837703" }, "geometry": { "type": "Point", "coordinates": [ 105.68223970469009, -6.525933040488486 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Darsimah", "description": null }, "geometry": { "type": "Point", "coordinates": [ 105.683171814171118, -6.525726530449876 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Kadeudeuh", "description": "08558658364" }, "geometry": { "type": "Point", "coordinates": [ 105.683592492352602, -6.525303776069036 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Putri Kembar", "description": "087809074377" }, "geometry": { "type": "Point", "coordinates": [ 105.678012021052581, -6.514013512002771 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Garuda", "description": "087773210660" }, "geometry": { "type": "Point", "coordinates": [ 105.67794304695434, -6.51331372692542 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Ci Bolang", "description": "081315813329" }, "geometry": { "type": "Point", "coordinates": [ 105.67761268861284, -6.513277704596817 ] } },
+{ "type": "Feature", "properties": { "title": "Irna Homestay", "description": "087880245922" }, "geometry": { "type": "Point", "coordinates": [ 105.677102093525775, -6.513110131229961 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Melati", "description": "081910897370" }, "geometry": { "type": "Point", "coordinates": [ 105.675993202254048, -6.512120796401095 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Adam", "description": "083877621233" }, "geometry": { "type": "Point", "coordinates": [ 105.675725264410858, -6.511840353271225 ] } },
+{ "type": "Feature", "properties": { "title": "Bunar Tunggal Inn", "description": "081297896799" }, "geometry": { "type": "Point", "coordinates": [ 105.669411481571672, -6.505332681599058 ] } },
+{ "type": "Feature", "properties": { "title": "Griyeu Nyimas", "description": "081383695710" }, "geometry": { "type": "Point", "coordinates": [ 105.674319253946649, -6.510585741884511 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Doni", "description": "081381657682" }, "geometry": { "type": "Point", "coordinates": [ 105.677889989955503, -6.513245198014152 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Alfino", "description": "085210409878" }, "geometry": { "type": "Point", "coordinates": [ 105.677778915012567, -6.513361188780361 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay AS", "description": "08129595988" }, "geometry": { "type": "Point", "coordinates": [ 105.677714372893973, -6.513303717785926 ] } },
+{ "type": "Feature", "properties": { "title": "Blue Ocean", "description": "081938273950" }, "geometry": { "type": "Point", "coordinates": [ 105.6735220725418, -6.509737032403905 ] } },
+{ "type": "Feature", "properties": { "title": "Kampung Nelayan", "description": "085210409889" }, "geometry": { "type": "Point", "coordinates": [ 105.676877152016203, -6.512117393999294 ] } },
+{ "type": "Feature", "properties": { "title": "Faris Homestay", "description": "085715956816" }, "geometry": { "type": "Point", "coordinates": [ 105.676649155064098, -6.512660006237205 ] } },
+{ "type": "Feature", "properties": { "title": "Cottage Mutiara Ibu", "description": "087771169309" }, "geometry": { "type": "Point", "coordinates": [ 105.679097735551622, -6.513716933098587 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Setya", "description": "087877714456" }, "geometry": { "type": "Point", "coordinates": [ 105.669221175253725, -6.504776474094551 ] } },
+{ "type": "Feature", "properties": { "title": "Homestay Ambassador", "description": "085775337041" }, "geometry": { "type": "Point", "coordinates": [ 105.669919537998524, -6.507267931386531 ] } }
+],
+"type": "FeatureCollection"
+}

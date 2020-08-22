@@ -63,7 +63,7 @@
                             />
                         {:else}
                             <div class="h-5 w-5 mr-2 flex-shrink-0">
-                                <img src="{X.url}.png" alt="icon-legend" class="w-full h-full">
+                                <img src={`${X.url}.png`} alt={X.url} class="w-full h-full">
                             </div>
                         {/if}
                         <input type="checkbox" class= "hidden" on:change={changeFunc(X.name,X.check)} bind:checked={X.check}>

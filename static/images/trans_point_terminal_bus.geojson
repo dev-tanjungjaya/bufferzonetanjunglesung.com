@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34b8d9cec271214abba6297b50ee1dafbd92c749fb7bd2e0ff6aaa9f4f2a9af8
-size 1274
+{
+"type": "FeatureCollection",
+"name": "trans_point_terminal_bus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 2, "description": "Terminal Kadubanen \/ Terminal Pandeglang" }, "geometry": { "type": "Point", "coordinates": [ 106.119980055374256, -6.319480645960037 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "description": "Terminal Kalideres" }, "geometry": { "type": "Point", "coordinates": [ 106.70576128288937, -6.154452553171486 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "description": "Terminal Labuan" }, "geometry": { "type": "Point", "coordinates": [ 105.842890200797939, -6.394112442446388 ] } },
+{ "type": "Feature", "properties": { "Id": 5, "description": "Terminal Pakupatan" }, "geometry": { "type": "Point", "coordinates": [ 106.196442461515886, -6.12175714663262 ] } },
+{ "type": "Feature", "properties": { "Id": 24, "description": "Terminal Terpadu Merak" }, "geometry": { "type": "Point", "coordinates": [ 106.001059128133861, -5.934809127837697 ] } },
+{ "type": "Feature", "properties": { "Id": 27, "description": "Terminal Panimbang" }, "geometry": { "type": "Point", "coordinates": [ 105.801505642497659, -6.492297068990911 ] } }
+]
+}

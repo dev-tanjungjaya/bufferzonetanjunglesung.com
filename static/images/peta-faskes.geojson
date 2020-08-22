@@ -1,3 +1,152 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4ca76c3347df35bde01b5c30b9d824d6b0da3fb8f542dc532d45bbdc3858712
-size 5960
+{
+    "type": "FeatureCollection",
+    "name": "peta-fasilitaskes",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Klinik Alinda Husada",
+                "alamat": "Jl. Raya Tanjung Lesung Km.01 Panimbang- Pandeglang 42281",
+                "jenis": "Klinik",
+                "poli": "Dokter Umum, Dokter Gigi, Dokter Penyakit Dalam, Dokter Kandungan, Dokter Bedah, Dokter Anak, Apoteker",
+                "ugd": "Ada",
+                "fasilitas": "Rawat inap, Persalinan, Laboratorium Klinik, Penunjang Medik (USG, EKG), Mobil Ambulance, Khitanan, Konsultasi Gizi",
+                "nomor": "(0253) 5806781",
+                "Jadwal": "Dokter Umum : 24 Jam\n\nPoli Gigi :\nSenin s/d Jumat : 09.00 - 15.00\nSabtu : 09.00 - 12.00\n\nPoli Penyakit Dalam:\nSenin, Selasa, Kamis, Sabtu : 17.00 - selesai\n\nPoli Kandungan :\nRabu dan Jumat : 16.00 -19.00\n\nPoli Anak :\nSelasa dan Kamis : 12.00 - 14.00\nSabt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.792975925722956,
+                    -6.497227626372926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Klinik Rawat Inap Cikadu",
+                "alamat": "Kp. Cikadu Indah, Desa Tanjungjaya, Kecamatan Panimbang, Kab. Pandeglang, Banten.",
+                "jenis": "Klinik",
+                "poli": "Dokter Umum",
+                "ugd": "Tidak Ada",
+                "fasilitas": "Laboratorium, EKG",
+                "nomor": "085215170647",
+                "Jadwal": "Senin, Rabu, dan Kamis : 08.00 - 16.00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.681865285579306,
+                    -6.527025910091337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Klinik Amani",
+                "alamat": "\nJln Teluk Lada Kp.Pelopor RT 01 RW 01 Ds.Gombong Kec.Panimbang Kab.Pandeglang Banten",
+                "jenis": "Klinik",
+                "poli": "Dokter Umum",
+                "ugd": "Tidak Ada",
+                "fasilitas": "Laboratorium, USG, EKG",
+                "nomor": "085380982950",
+                "Jadwal": "Dokter Umum :\nSenin s/d Sabtu : 08.00 - 20.00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.815163036132333,
+                    -6.514195376891304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Praktik Dokter Umum Dr. Dede Ropiah",
+                "alamat": "Jl. Raya Wisata, Tanjungjaya, Panimbang, Kabupaten Pandeglang, Banten 42281",
+                "jenis": "Praktek Dokter",
+                "poli": "Dokter Umum",
+                "ugd": "Tidak Ada",
+                "fasilitas": "-",
+                "nomor": "02535808646\n081274030169",
+                "Jadwal": "Setiap Hari:\n06.00 - 08.00, 16.00 - 21.00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.686436146012852,
+                    -6.522648067867371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Praktik Bidan Hj.Ella Mulyaningsih,SST",
+                "alamat": "Jl. Raya Tlk. Lada No.42, Panimbangjaya, Panimbang, Kabupaten Pandeglang",
+                "jenis": "Praktek Bidan",
+                "poli": "Bidan",
+                "ugd": "Tidak Ada",
+                "fasilitas": "-",
+                "nomor": "081314076835",
+                "Jadwal": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.803954081955482,
+                    -6.490616967567911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Praktik Dokter Umum Dr. Wina Widia",
+                "alamat": "Jl. Raya Teluk Lada KM 1, Kp. Soge, Kec. Panimbang, Kab. Pandeglang",
+                "jenis": "Praktek Dokter",
+                "poli": "Dokter Umum",
+                "ugd": "Tidak Ada",
+                "fasilitas": "-",
+                "nomor": "-",
+                "Jadwal": "Senin s/d Sabtu : 15.00 - 21.00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.803301480872094,
+                    -6.490649915644029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nama": "Puskesmas Panimbang",
+                "alamat": "Jl. Raya Tanjung Lesung Km.01 Panimbang- Pandeglang 42281",
+                "jenis": "Puskesmas",
+                "poli": "Dokter Umum, Dokter Gigi, Bidan, Apoteker",
+                "ugd": "Ada",
+                "fasilitas": "Rawat Inap, Persalinan, Laboratorium Klinik, Penunjang Medik (USG, EKG), Mobil Ambulance",
+                "nomor": "(0253) 803449",
+                "Jadwal": "Poli Umum :\nSenin s/d Kamis, Sabtu : 08.00 - 13.00\nJumat : 08.00 - 12.00\n\nPoli Gigi dan Mulut :\nSenin s/d Sabtu : 08.00 - 13.00\nPoli Kesehatan Anak dan Imunisasi :\nSenin s/d Sabtu 08.00 - 13.00\n\nPelayanan USG :\nSelasa dan Kamis : 09.00 -13.00\n\nPemeriksaa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.79667665137876,
+                    -6.493413592593674
+                ]
+            }
+        }
+    ]
+}
