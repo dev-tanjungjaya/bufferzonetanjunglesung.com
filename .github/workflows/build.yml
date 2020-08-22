@@ -1,0 +1,13 @@
+name: Trigger build deployment 
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+env:
+  BUILD_HOOK: ${{ secrets.BUILD_HOOK }}
+jobs:
+  build:
+    name: Request build hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request curl
+        run: curl -X POST -d {} $BUILD_HOOK
