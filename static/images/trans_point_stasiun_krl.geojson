@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e4190c7bc3c47e54398d396c88880b14625a416aadec89e5ef4c8860ee5b2ce
-size 3912
+{
+"type": "FeatureCollection",
+"name": "trans_point_stasiun_krl",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 7, "description": "Stasiun Tanah Abang" }, "geometry": { "type": "Point", "coordinates": [ 106.81088174406834, -6.185774033242023 ] } },
+{ "type": "Feature", "properties": { "Id": 8, "description": "Stasiun Palmera" }, "geometry": { "type": "Point", "coordinates": [ 106.797431245873426, -6.207566802755962 ] } },
+{ "type": "Feature", "properties": { "Id": 9, "description": "Stasiun Kebayoran" }, "geometry": { "type": "Point", "coordinates": [ 106.782572701629107, -6.237323152364175 ] } },
+{ "type": "Feature", "properties": { "Id": 10, "description": "Stasiun Sudimara" }, "geometry": { "type": "Point", "coordinates": [ 106.712819992005933, -6.296985757623323 ] } },
+{ "type": "Feature", "properties": { "Id": 11, "description": "Stasiun Rawa Buntu" }, "geometry": { "type": "Point", "coordinates": [ 106.675544545637379, -6.315195772700294 ] } },
+{ "type": "Feature", "properties": { "Id": 12, "description": "Stasiun Serpong" }, "geometry": { "type": "Point", "coordinates": [ 106.665574604027995, -6.320092703450112 ] } },
+{ "type": "Feature", "properties": { "Id": 13, "description": "Stasiun Cisauk" }, "geometry": { "type": "Point", "coordinates": [ 106.641375485611334, -6.324661268580877 ] } },
+{ "type": "Feature", "properties": { "Id": 14, "description": "Stasiun Cicayur" }, "geometry": { "type": "Point", "coordinates": [ 106.619118007374794, -6.329658136692694 ] } },
+{ "type": "Feature", "properties": { "Id": 15, "description": "Stasiun Parung Panjang" }, "geometry": { "type": "Point", "coordinates": [ 106.569848887815809, -6.34422043804739 ] } },
+{ "type": "Feature", "properties": { "Id": 16, "description": "Stasiun Cilejit" }, "geometry": { "type": "Point", "coordinates": [ 106.50967231901511, -6.354366459774929 ] } },
+{ "type": "Feature", "properties": { "Id": 17, "description": "Stasiun Duri" }, "geometry": { "type": "Point", "coordinates": [ 106.492311771528151, -6.33763884890354 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "description": "Stasiun Tigaraksa" }, "geometry": { "type": "Point", "coordinates": [ 106.433953110939271, -6.328896709166696 ] } },
+{ "type": "Feature", "properties": { "Id": 19, "description": "Stasiun Cikoya" }, "geometry": { "type": "Point", "coordinates": [ 106.411533829358376, -6.335754315784913 ] } },
+{ "type": "Feature", "properties": { "Id": 20, "description": "Stasiun Duri" }, "geometry": { "type": "Point", "coordinates": [ 106.396500394734787, -6.332313615170085 ] } },
+{ "type": "Feature", "properties": { "Id": 21, "description": "Stasiun Rangkasbitung" }, "geometry": { "type": "Point", "coordinates": [ 106.250844068843875, -6.352527136410189 ] } },
+{ "type": "Feature", "properties": { "Id": 25, "description": "Stasiun Duri" }, "geometry": { "type": "Point", "coordinates": [ 106.801280712223175, -6.155316242371817 ] } },
+{ "type": "Feature", "properties": { "Id": 26, "description": "Stasiun Tangerang" }, "geometry": { "type": "Point", "coordinates": [ 106.63182858650633, -6.176966958061166 ] } },
+{ "type": "Feature", "properties": { "Id": 28, "description": "Stasiun Bogor" }, "geometry": { "type": "Point", "coordinates": [ 106.791480714305692, -6.591117072073531 ] } },
+{ "type": "Feature", "properties": { "Id": 29, "description": "Stasiun Depok" }, "geometry": { "type": "Point", "coordinates": [ 106.809750215903364, -6.42250846520081 ] } },
+{ "type": "Feature", "properties": { "Id": 30, "description": "Stasiun Bekasi" }, "geometry": { "type": "Point", "coordinates": [ 106.999141966686935, -6.236553091906408 ] } },
+{ "type": "Feature", "properties": { "Id": 31, "description": "Stasiun Jatinegara" }, "geometry": { "type": "Point", "coordinates": [ 106.870199767980168, -6.215091226101374 ] } }
+]
+}
