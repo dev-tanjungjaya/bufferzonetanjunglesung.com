@@ -5,7 +5,7 @@ yarn-error.log
 /cypress/screenshots/
 /__sapper__/
 .env
+/static/index.css
 
 # Local Netlify folder
 .netlify
-/static/index.css
