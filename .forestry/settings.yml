@@ -70,10 +70,10 @@ sections:
 - type: document
   path: data/category-destination.yml
   label: Kategori destinasi wisata
-upload_dir: static/images
-public_path: https://bufferzonetanjunglesung.com/images
+upload_dir: ''
+public_path: https://res.cloudinary.com/dpc7ckvcn/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   install_dependencies_command: npm install
