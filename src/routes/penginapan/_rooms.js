@@ -52,7 +52,7 @@ export const roomFacilityIconMap = {
     'Kloset duduk': 'ic_toilet.svg',
     'Kamar mandi dalam': 'ic_bathtub.svg',
     'Shower': 'ic_shower.svg',
-    'Wastafel': 'ic_shink.svg',
+    'Wastafel': 'ic_sink.svg',
     'Air panas': 'ic_fire.svg',
     'AC': 'ic_snowflake.svg',
     'Kipas angin': 'ic_fan.svg',
