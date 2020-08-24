@@ -13,6 +13,8 @@ promotions:
 - CEC-DISC20
 - CEC-DISC10
 descriptions:
+- promotion: JGH - Disc 25%
+  description: 'Minimal untuk pemesanan 2 '
 - promotion: SBC-DISC10%
   description: Diskon 10% untuk pembelian di atas 20 potong
 - promotion: SBC-DISC5%
