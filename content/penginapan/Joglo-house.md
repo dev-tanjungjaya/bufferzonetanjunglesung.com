@@ -48,7 +48,8 @@ roomFacilities:
 - Kloset duduk
 - Shower
 - Kamar mandi dalam
-promotions: []
+promotions:
+- JGH - Disc 25%
 notes: Untuk booking DP minimal 25%
 
 ---
