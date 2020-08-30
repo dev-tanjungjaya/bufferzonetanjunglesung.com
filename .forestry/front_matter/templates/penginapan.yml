@@ -132,7 +132,6 @@ fields:
   label: Catatan
   description: Catatan untuk pengunjung atau yang lainnya
 pages:
-- content/penginapan/Joglo-house.md
 - content/penginapan/bunartunggal-inn.md
 - content/penginapan/griyeu-nyimas.md
 - content/penginapan/homestay-adam.md
