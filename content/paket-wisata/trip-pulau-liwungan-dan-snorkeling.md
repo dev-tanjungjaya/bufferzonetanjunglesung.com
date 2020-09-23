@@ -1,5 +1,5 @@
 ---
-contact: Admin Tanjungjaya
+contact: Citeureup
 name: Trip Pulau Liwungan dan Snorkeling (Cikadu Edutourism Centre)
 photos:
 - description: Snorkeling
