@@ -7,6 +7,10 @@ admins:
 - Citeureup
 - Tanjungjaya
 contacts:
+- admin: ''
+  contacts:
+  - phoneNumber: "+62 812-8463-0847"
+    whatsapp: true
 - admin: Ujung Kulon
   contacts:
   - phoneNumber: '082260999093'
