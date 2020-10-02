@@ -40,6 +40,6 @@ facilities:
 - Pelampung
 - Asuransi
 promotions: []
-notes: ''
+notes: 'Reservasi perlu dilakukan maksimal '
 
 ---
