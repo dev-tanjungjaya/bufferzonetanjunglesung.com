@@ -32,6 +32,7 @@ categories:
 - Edukasi
 - Alam
 facilities:
+- Tenda
 - Pemandu
 - Tiket
 - Makan
