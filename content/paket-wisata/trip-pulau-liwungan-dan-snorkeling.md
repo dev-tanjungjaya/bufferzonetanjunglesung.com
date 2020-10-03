@@ -2,6 +2,8 @@
 contact: Citeureup
 name: Trip Pulau Liwungan dan Snorkeling (Cikadu Edutourism Centre)
 photos:
+- photoURI: "/v1601648619/images_13_xwsnkm.jpg"
+  description: ''
 - description: Snorkeling
   photoURI: trip-pulau-liwungan-dan-snorkeling-1_wn2xak.jpg
 - description: Perjalan ke pulau Liwungan menggunakan kapal
