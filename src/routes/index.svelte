@@ -79,7 +79,7 @@
 <div class="flex flex-col px-8 lg:px-20 xl:px-40 my-24 space-y-16 sm:space-y-24">
     {#each potencies as potency, i}
         <Promotion 
-            img={potency.image.substring(potency.image.indexOf('image/'))}
+            img={'w_300,c_fill/' + potency.image.substring(potency.image.indexOf('image/'))}
             headline={potency.title}
             content={potency.content}
             photoFirst={i%2 === 0}
