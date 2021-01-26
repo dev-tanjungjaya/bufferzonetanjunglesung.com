@@ -1,23 +1,31 @@
 ---
 admins:
-- Admin Banyuasih
-- Admin Cigeulis
-- Admin Citeureup
-- Admin Tanjungjaya
+- Banyuasih
+- Cigeulis
+- Citeureup
+- Tanjungjaya
 contacts:
-- admin: Admin Banyuasih
+- admin: Carita
+  contacts:
+  - phoneNumber: "+62 812-8463-0847"
+    whatsapp: true
+- admin: Ujung Kulon
+  contacts:
+  - phoneNumber: '082260999093'
+    whatsapp: true
+- admin: Banyuasih
   contacts:
   - phoneNumber: "6285215632635"
     whatsapp: true
-- admin: Admin Cigeulis
+- admin: Cigeulis
   contacts:
   - phoneNumber: "6285921374035"
     whatsapp: true
-- admin: Admin Citeureup
+- admin: Citeureup
   contacts:
   - phoneNumber: "62817849463"
     whatsapp: true
-- admin: Admin Tanjungjaya
+- admin: Tanjungjaya
   contacts:
   - phoneNumber: "6285210468664"
     whatsapp: true
