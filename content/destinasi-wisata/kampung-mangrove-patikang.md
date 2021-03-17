@@ -4,7 +4,7 @@ coordinate:
   lng: 105.71612
 name: Lembur Mangrove Patikang
 photos:
-- description: " Mangrove Patikang"
+- description: Lembur Mangrove Patikang
   photoURI: kampung-mangrove-patikang-1_atnpjc.jpg
 - description: Pengembangan bibit mangrove
   photoURI: kampung-mangrove-patikang-8_asd5el.jpg
