@@ -4,22 +4,10 @@ coordinate:
   lng: 105.71612
 name: Lembur Mangrove Patikang
 photos:
-- description: Kampung Mangrove Patikang
+- description: " Mangrove Patikang"
   photoURI: kampung-mangrove-patikang-1_atnpjc.jpg
-- description: Kampung Mangrove Patikang
-  photoURI: kampung-mangrove-patikang-2_vuvlvb.jpg
-- description: Kampung Mangrove Patikang
-  photoURI: kampung-mangrove-patikang-3_tke4jk.jpg
 - description: Pengembangan bibit mangrove
   photoURI: kampung-mangrove-patikang-8_asd5el.jpg
-- description: Pengembangan bibit mangrove
-  photoURI: kampung-mangrove-patikang-6_ixixw8.jpg
-- photoURI: kampung-mangrove-patikang-4_goeugi.jpg
-  description: Pengembangan bibit mangrove
-- description: Pengembangan bibit mangrove
-  photoURI: kampung-mangrove-patikang-7_osylys.jpg
-- photoURI: kampung-mangrove-patikang-5_lmyndt.jpg
-  description: Pengembangan bibit mangrove
 - description: Peta penanaman mangrove di desa Citeureup
   photoURI: peta-penanaman-mangrove_i3kpzm.jpg
 - description: Poster wisata desa Citeureup
@@ -48,6 +36,6 @@ facilities:
 - Tempat parkir
 promotions: []
 notes: Untuk info paket wisata selengkapnya silahkan cek menu Paket Wisata.
-contact: Admin Citeureup
+contact: Banyuasih
 
 ---
