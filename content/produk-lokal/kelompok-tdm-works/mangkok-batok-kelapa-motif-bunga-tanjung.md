@@ -1,5 +1,5 @@
 ---
-contact: Admin Tanjungjaya
+contact: Banyuasih
 name: Mangkok Batok Kelapa Motif Bunga Tanjung
 photos:
 - photoURI: mangkok-batok-kelapa-motif-bunga-tanjung-1_jrpdxo.png
@@ -28,7 +28,7 @@ categories:
 - Kerajinan
 prices:
 - description: Mangkok Batok Kelapa
-  value: 20000
+  value: 32500
   unit: pcs
 promotions:
 - CEC-DISC20
