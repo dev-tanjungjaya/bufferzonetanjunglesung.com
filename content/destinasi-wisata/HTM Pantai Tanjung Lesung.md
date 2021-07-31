@@ -5,7 +5,7 @@ coordinate:
 contact: Tanjungjaya
 name: Tanjung Lesung Beach
 photos:
-- photoURI: ''
+- photoURI: "/v1627727513/pantai_tanjunglesung_idokqi.jpg"
   description: ''
 description: Pantai Tanjung Lesung memiliki berbagai daya tarik, yaitu pasir putihnya.
   Selain itu, Pantai Tanjung Lesung termasuk dalam kawasan penangkaran terumbu karang
