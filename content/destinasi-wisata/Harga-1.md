@@ -16,7 +16,10 @@ prices:
 - unit: pax
   value: 30000
   description: Harga
-hours: []
+hours:
+- description: Jam Operasional
+  open: 7:00 AM
+  close: 5:00 PM
 categories: []
 facilities: []
 promotions: []
