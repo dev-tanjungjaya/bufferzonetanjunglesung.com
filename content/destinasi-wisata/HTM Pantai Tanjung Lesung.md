@@ -14,7 +14,7 @@ description: Pantai Tanjung Lesung memiliki berbagai daya tarik, yaitu pasir put
 gmaps: https://goo.gl/maps/J6HAtSUMnMphpjTq7
 prices:
 - description: 'Harga '
-  value: 30000
+  value: 30
   unit: orang
 hours:
 - open: 8:00 AM
