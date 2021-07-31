@@ -2,7 +2,7 @@
 coordinate:
   lat: 0
   lng: 0
-contact: Banyuasih
+contact: Tanjungjaya
 name: Pantai Legon Waru
 photos:
 - photoURI: "/v1627730991/WhatsApp_Image_2021-07-31_at_18.23.57_m5udfp.jpg"
