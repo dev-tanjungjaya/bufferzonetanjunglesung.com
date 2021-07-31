@@ -16,7 +16,10 @@ prices:
 - description: 'Harga '
   value: 30.0
   unit: orang
-hours: []
+hours:
+- open: 8:00 AM
+  close: 5:00 PM
+  description: 'Jam Operasional '
 categories:
 - Alam
 facilities:
