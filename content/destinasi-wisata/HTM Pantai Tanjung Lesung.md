@@ -22,6 +22,7 @@ hours:
   description: 'Jam Operasional '
 categories:
 - Alam
+- Alam
 facilities:
 - Toilet umum
 - Penginapan
