@@ -17,7 +17,10 @@ prices:
 - description: 'Harga '
   unit: orang
   value: 60.0
-hours: []
+hours:
+- open: 7:00 AM
+  close: 7:00 PM
+  description: Jam Operasional
 categories: []
 facilities: []
 promotions: []
