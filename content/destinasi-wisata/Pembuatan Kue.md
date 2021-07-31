@@ -2,7 +2,7 @@
 coordinate:
   lat: 0
   lng: 0
-contact: Banyuasih
+contact: Tanjungjaya
 name: Pembuatan Kue Tradisional
 photos:
 - photoURI: "/v1598015880/pembuatan-kuliner-tradisional-2_kzgkq8.jpg"
