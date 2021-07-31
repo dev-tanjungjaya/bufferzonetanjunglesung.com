@@ -14,9 +14,12 @@ description: |-
 gmaps: https://www.bing.com/search?q=mongolian+culture+center&form=HDRSC1&filters=local_ypid:"YN7999x4014179871712442"&shtp=GetUrl&shid=d8bf5b9d-8aa8-4cf7-8142-e6b853f0d1de&shtk=TW9uZ29saWFuIEN1bHR1cmUgQ2VudGVy&shdk=Rm91bmQgb24gQmluZy4%3D&shhk=SNwWQodQQ4eAO12OYHhBeBuz78g9PrbnmbQ7Ze7m5DQ%3D
 prices:
 - description: 'Harga '
-  value: 0
+  value: 30
   unit: orang
-hours: []
+hours:
+- description: Jam Operasional
+  open: 9:00 AM
+  close: 5:00 PM
 categories:
 - Edukasi
 facilities:
