@@ -17,7 +17,8 @@ prices:
   value: 30.0
   unit: orang
 hours: []
-categories: []
+categories:
+- Alam
 facilities:
 - Penginapan
 promotions: []
