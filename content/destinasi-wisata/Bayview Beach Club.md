@@ -21,7 +21,6 @@ hours:
   open: 10:00 AM
   close: 6:00 PM
 categories:
-- Kuliner
 - Alam
 facilities:
 - Rumah makan
