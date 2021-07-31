@@ -134,6 +134,7 @@ fields:
   label: Catatan
   description: Catatan untuk pengunjung atau yang lainnya
 pages:
+- content/destinasi-wisata/Bayview Beach Club.md
 - content/destinasi-wisata/HTM Lalassa Beach Club.md
 - content/destinasi-wisata/HTM Pantai Tanjung Lesung.md
 - content/destinasi-wisata/english-club-tanjungjaya.md
