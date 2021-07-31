@@ -2,7 +2,7 @@
 coordinate:
   lat: 0
   lng: 0
-contact: Banyuasih
+contact: Tanjungjaya
 name: Tanjung Lesung Beach
 photos:
 - photoURI: ''
@@ -23,6 +23,7 @@ hours:
 categories:
 - Alam
 facilities:
+- Toilet umum
 - Penginapan
 promotions: []
 notes: ''
