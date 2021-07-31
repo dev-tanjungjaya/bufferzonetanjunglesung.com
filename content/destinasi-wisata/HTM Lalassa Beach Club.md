@@ -2,7 +2,7 @@
 coordinate:
   lat: 0
   lng: 0
-contact: Banyuasih
+contact: Tanjungjaya
 name: Lalasa Beach Club
 photos:
 - photoURI: "/v1627728590/Lalassa-New-Beach-Club-1024x768_nu0gvo.jpg"
@@ -21,8 +21,11 @@ hours:
 - open: 7:00 AM
   close: 7:00 PM
   description: Jam Operasional
-categories: []
-facilities: []
+categories:
+- Alam
+facilities:
+- Tempat bermain anak
+- Spot foto
 promotions: []
 notes: ''
 
