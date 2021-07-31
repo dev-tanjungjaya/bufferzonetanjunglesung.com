@@ -24,6 +24,7 @@ hours:
 categories:
 - Alam
 facilities:
+- Toilet umum
 - Tempat bermain anak
 - Spot foto
 promotions: []
