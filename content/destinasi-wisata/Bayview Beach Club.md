@@ -11,7 +11,7 @@ description: Bayview Beach Club (BBC) adalah wisata bahari yang terletak di Desa
   dan baru dibuka pada Desember 2020. Bayview Beach Club berada di pesisir Pantai
   Tanjung Lesung. Para pengunjung dapat berfoto, berekreasi, serta menikmati keindahan
   pantai di sekitar BBC.
-gmaps: https://www.google.com/maps/dir/Tanjungjaya,+Pandeglang+Regency,+Banten/Bayview+beach+club,+Jalan+Panimbang,+Tanjungjaya,+Pandeglang+Regency,+Banten/@-6.5091043,105.633636,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2e43b63acce06b03:0x942250a7534d42bb!2m2!1d105.652983!2d-6.5115909!1m5!1m1!1s0x2e43b718d0a9b3e7:0xc917df8c5236c18!2m2!1d105.63026!2d-6.520983
+gmaps: 'https://www.google.com/maps/place/Bayview+beach+club/@-6.5209777,105.6280713,17z/data=!3m1!4b1!4m5!3m4!1s0x2e43b718d0a9b3e7:0xc917df8c5236c18!8m2!3d-6.520983!4d105.63026 '
 prices:
 - description: 'Harga '
   value: 50000
