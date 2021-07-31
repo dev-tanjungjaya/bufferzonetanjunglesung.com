@@ -20,7 +20,8 @@ hours:
 - description: Jam Operasional
   open: 7:00 AM
   close: 5:00 PM
-categories: []
+categories:
+- Edukasi
 facilities: []
 promotions: []
 notes: ''
