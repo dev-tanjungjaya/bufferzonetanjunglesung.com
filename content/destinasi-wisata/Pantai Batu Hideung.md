@@ -26,6 +26,7 @@ hours:
 categories:
 - Alam
 facilities:
+- Tempat parkir
 - Toilet umum
 - Spot foto
 promotions: []
