@@ -24,7 +24,6 @@ categories:
 - Kuliner
 - Alam
 facilities:
-- Gazebo
 - Rumah makan
 - Tempat bermain anak
 - Kolam renang
