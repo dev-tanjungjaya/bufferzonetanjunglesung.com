@@ -1,5 +1,5 @@
 ---
-contact: Admin Tanjungjaya
+contact: Banyuasih
 name: Piring Kayu Jati 20cm
 photos:
 - photoURI: piring-kayu-jati-20cm-5_b6wi4j.png
@@ -21,7 +21,7 @@ categories:
 - Kerajinan
 prices:
 - description: Piring Kayu Jati
-  value: 50000
+  value: 59500
   unit: pcs
 promotions:
 - CEC-DISC20
