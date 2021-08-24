@@ -26,10 +26,10 @@ activity: |-
 prices:
 - description: 'Khusus untuk pasangan '
   value: 3000000
-  unit: "/ 2 pax"
+  unit: 2 pax
 categories:
-- Budaya
 - Alam
+- Budaya
 facilities:
 - Alat Snorkeling
 - Makan
@@ -37,7 +37,7 @@ facilities:
 - Penginapan
 - Welcome drink
 promotions: []
-notes: 'Setiap pembelian paket wisata ini akan mendapatkan souvenir gratis berupa
-  kerajinan kayu buatan masyarakat desa '
+notes: Setiap pembelian paket wisata ini akan mendapatkan souvenir gratis berupa kerajinan
+  kayu buatan masyarakat desa.
 
 ---
