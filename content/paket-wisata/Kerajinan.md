@@ -2,9 +2,9 @@
 contact: Tanjungjaya
 name: 'Heart Of Tanjungjaya '
 photos:
-- photoURI: "/v1629808901/WhatsApp_Image_2020-06-03_at_21.10.11_kxzctf.jpg"
-  description: ''
 - photoURI: "/v1600832174/IMG_20170415_173400_422_azrsvr.jpg"
+  description: ''
+- photoURI: "/v1629808901/WhatsApp_Image_2020-06-03_at_21.10.11_kxzctf.jpg"
   description: ''
 - photoURI: "/v1598015859/paket-eduwisata-bahari-1_vfcju0.jpg"
   description: ''
