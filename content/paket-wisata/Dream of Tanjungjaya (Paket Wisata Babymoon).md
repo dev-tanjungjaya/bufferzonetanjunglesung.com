@@ -26,7 +26,6 @@ prices:
   value: 2000000
   unit: 2 pax
 categories:
-- Edukasi
 - Kuliner
 - Budaya
 facilities:
