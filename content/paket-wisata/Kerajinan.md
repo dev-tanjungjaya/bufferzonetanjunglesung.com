@@ -28,7 +28,6 @@ prices:
   value: 3000000
   unit: "/ 2 pax"
 categories:
-- Kuliner
 - Budaya
 - Alam
 facilities:
