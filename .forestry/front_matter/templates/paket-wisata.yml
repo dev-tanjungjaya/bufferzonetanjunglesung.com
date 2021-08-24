@@ -117,6 +117,7 @@ fields:
   label: Catatan
   description: Catatan untuk pengunjung atau yang lainnya
 pages:
+- content/paket-wisata/Kerajinan.md
 - content/paket-wisata/Ujung Kulon/Paket Buper Cicegog.md
 - content/paket-wisata/edukasi-anyaman-alang-alang.md
 - content/paket-wisata/edukasi-kerajinan-anyaman-bambu.md
