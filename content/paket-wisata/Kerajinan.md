@@ -1,6 +1,6 @@
 ---
 contact: Tanjungjaya
-name: 'Heart Of Tanjungjaya '
+name: Heart Of Tanjungjaya (Honeymoon)
 photos:
 - photoURI: "/v1600832174/IMG_20170415_173400_422_azrsvr.jpg"
   description: ''
