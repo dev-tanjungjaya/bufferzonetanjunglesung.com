@@ -24,7 +24,7 @@ activity: |-
   6. _Local activity_ (susur sungai dan edukasi kerajinan)
   7. Makan siang hasil tangkapan ikan
 prices:
-- description: 'Khusus untuk pasangan '
+- description: Khusus untuk pasangan
   value: 3000000
   unit: 2 pax
 categories:
