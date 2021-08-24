@@ -24,11 +24,13 @@ activity: |-
   6. _Local activity_ (susur sungai dan edukasi kerajinan)
   7. Makan siang hasil tangkapan ikan
 prices:
-- description: 'Untuk pasangan '
+- description: 'Khusus untuk pasangan '
   value: 3000000
   unit: "/ 2 pax"
 categories:
-- Gabungan
+- Kuliner
+- Budaya
+- Alam
 facilities:
 - Alat Snorkeling
 - Makan
@@ -36,6 +38,7 @@ facilities:
 - Penginapan
 - Welcome drink
 promotions: []
-notes: ''
+notes: 'Setiap pembelian paket wisata ini akan mendapatkan souvenir gratis berupa
+  kerajinan kayu buatan masyarakat desa '
 
 ---
