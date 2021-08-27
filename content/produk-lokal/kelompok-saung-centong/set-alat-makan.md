@@ -1,5 +1,5 @@
 ---
-contact: Admin Tanjungjaya
+contact: Banyuasih
 name: Set Alat Makan
 photos:
 - photoURI: set-alat-makan-1-1_eki1pb.jpg
@@ -22,7 +22,7 @@ categories:
 - Kerajinan
 prices:
 - description: FREE POUCH
-  value: 55000
+  value: 66700
   unit: set
 promotions:
 - Free Pouch
