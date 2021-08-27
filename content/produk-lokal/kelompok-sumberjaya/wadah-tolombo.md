@@ -1,15 +1,13 @@
 ---
 contact: Banyuasih
-name: Piring Kayu Jati 30cm
+name: Wadah Tolombo
 photos:
-- photoURI: piring-kayu-jati-25cm-1-1_ap2c6g.png
-  description: Piring Kayu Jati
-- description: Piring kayu jati
-  photoURI: piring-kayu-jati-25cm-2-1_l5sal0.png
+- photoURI: "/v1630037502/kepuh_wadah_tolombo_2_zgozqz.png"
+  description: wadah tolombo
+- description: Wadah Tolombo
+  photoURI: "/v1630037478/kepuh_wadah_tolombo_somrhu.png"
 description: |-
-  Piring yang terbuat dari bahan kayu jati berkualitas ekspor. Produk ini dibuat oleh para pengrajin terampil di destinasi wisata Tanjung Lesung.
-
-  Diameter: 30 cm
+  Wadah/tolombo yang terbuat dari bahan bambu berkualitas ekspor. Produk ini dibuat oleh para pengrajin terampil di destinasi wisata Tanjung Lesung.
 
   Produk ini sangat aman untuk dipakai sebagai alat perlengkapan dapur karena tidak dilapisi dengan bahan kimia yang berbahaya. Kami menggunakan bahan pelapis permukaan kayu 100% natural biopolish food grade sehingga Anda dapat menggunakannya sebagai alat perlengkapan dapur yang aman.
 
@@ -17,12 +15,10 @@ description: |-
 categories:
 - Kerajinan
 prices:
-- description: Piring Kayu Jati
-  value: 115000
+- description: wadah tolombo
+  value: 26800
   unit: pcs
-promotions:
-- CEC-DISC20
-- CEC-DISC10
+promotions: []
 notes: ''
 title: Wadah Tolombo
 
