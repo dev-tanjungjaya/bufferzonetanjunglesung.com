@@ -1,15 +1,11 @@
 ---
 contact: Banyuasih
-name: Spatula Kayu Jati
+name: Talenan Cangkir Kayu
 photos:
-- photoURI: "/v1630038526/saung_spatula_kayu_jati_oxlxvr.png"
-  description: Spatula
-- description: Spatula Kayu Polos
-  photoURI: spatula-kayu-polos-2_nmqbtk.png
+- description: Tatakan Cangkir
+  photoURI: "/v1630038383/saung_tatakan_cangkir_thbrz5.png"
 description: |-
-  Spatula yang terbuat dari bahan kayu berkualitas ekspor. Produk ini dibuat oleh para pengrajin terampil di destinasi wisata Tanjung Lesung.
-
-  Ukuran: 38 x 8 cm.
+  Tatakan untuk cangkir yang terbuat dari bahan kayu berkualitas ekspor. Produk ini dibuat oleh para pengrajin terampil di destinasi wisata Tanjung Lesung.
 
   Produk ini sangat aman untuk dipakai sebagai alat perlengkapan dapur karena tidak dilapisi dengan bahan kimia yang berbahaya. Kami menggunakan bahan pelapis permukaan kayu 100% natural biopolish food grade sehingga Anda dapat menggunakannya sebagai alat perlengkapan dapur yang aman.
 
@@ -17,10 +13,11 @@ description: |-
 categories:
 - Kerajinan
 prices:
-- description: Spatula Kayu Jati
-  value: 41500
+- description: Talenan Kayu
+  value: 32500
   unit: pcs
 promotions: []
 notes: ''
+title: Talenan Cangkir Kayu
 
 ---
