@@ -1,14 +1,10 @@
 ---
 admins:
-- Banyuasih
+- Ujung Kulon
 - Cigeulis
 - Citeureup
 - Tanjungjaya
 contacts:
-- admin: ''
-  contacts:
-  - phoneNumber: '082260999093'
-    whatsapp: true
 - admin: Cigeulis
   contacts:
   - phoneNumber: "6285770907674"
