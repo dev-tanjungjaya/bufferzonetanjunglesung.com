@@ -1,5 +1,5 @@
 ---
-contact: Citeureup
+contact: Ujung Kulon
 name: Local tour experiences Cicegog ujung kulon
 photos:
 - photoURI: "/v1601648461/IMG-20201002-WA0032_zwrh9u.jpg"
@@ -40,7 +40,8 @@ facilities:
 - BBQ
 - Pelampung
 - Asuransi
-promotions: []
+promotions:
+- tour
 notes: 'Reservasi perlu dilakukan maksimal '
 
 ---
