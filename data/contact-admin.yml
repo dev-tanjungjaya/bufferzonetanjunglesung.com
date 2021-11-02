@@ -1,23 +1,8 @@
 ---
 admins:
-- Ujung Kulon
-- Cigeulis
-- Citeureup
-- Tanjungjaya
+- Contact Us
 contacts:
-- admin: Ujung Kulon
-  contacts:
-  - phoneNumber: "6282260999093"
-    whatsapp: true
 - admin: Cigeulis
   contacts:
   - phoneNumber: "6285770907674"
-    whatsapp: true
-- admin: Citeureup
-  contacts:
-  - phoneNumber: "62817849463"
-    whatsapp: true
-- admin: Tanjungjaya
-  contacts:
-  - phoneNumber: "6285210468664"
     whatsapp: true
