@@ -1,3 +1,6 @@
 ---
-promotions: []
-descriptions: []
+promotions:
+- tour
+descriptions:
+- description: testing promosi tour
+  promotion: ''
