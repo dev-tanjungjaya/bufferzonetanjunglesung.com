@@ -26,6 +26,7 @@ prices:
   value: 9150000
   unit: villa
 publicFacilities:
+- Makan 3 Kali
 - Kolam renang
 - Area parkir
 - Saung
@@ -43,6 +44,13 @@ roomFacilities:
 - Shower
 - Kamar mandi dalam
 promotions: []
-notes: ''
+notes: |-
+  Villa Termasuk Makan 3 Kali (BLD)
+
+  Waktu Check-in jam 14.00 WIB
+
+  Check-out Maksimal jam 12.00 WIB
+
+  Perlu Reservasi Terlebih dahulu
 
 ---
