@@ -1,60 +1,57 @@
 ---
 contact: Contact Us
-name: 'Open Trip Pulau Peucang Ujung Kulon '
+name: Promo Open Trip Tanjung Lesung Special Tahun Baru 2022
 photos:
-- photoURI: "/v1635938329/DSC_9470_kdzjnf.jpg"
-  description: Pulau Peucang Taman Nasional Ujung Kulon
-- photoURI: "/v1601648462/IMG_20201002_200938_655_hekk4e.jpg"
-  description: Pantai Pulau Peucang Ujung Kulon
-- photoURI: "/v1635933577/Banteng_Cidaon_Ujung_kulon_-_Copy_j0ha8b.jpg"
-  description: Padang Gembala Cidaon (Mengintip Kawanan Banteng dan Merak Liar)
-description: "jika kamu solo traveler atau tidak memiliki kelompok untuk melakukan
-  tour ke ujung kulon, kami menyediakan open trip pulau pecang ujung kulon dengan
-  keberangkatan yang disesuaikan dengan jadwal yang kami miliki \n\n**Destinasi Open
-  Trip Pulau Peucang Ujung Kulon**\n\nPulau Peucang\n\nPadang Gembala Cidaon\n\nSnorkeling
-  Point Ciapus\n\nSnorkeling Point Legon Sumino\n\nPohon Kiara Raksasa\n\nSungai CIgenter
-  (additional)"
-activity: "**ITINERARY**\n\n**Tour Program**\n\nSebaiknya berangkat dari jakarta pukul
-  20.00/21.00 perjalanan menuju sumur sekitar 5-6 jam.\n\nPeserta Sampai di sumur
-  sekitar jam 4/5 pagi hari.\n\natau bisa bermalam dahulu di sumur dan mengunjungi
-  destinasi wisata yang ada di sumureperti pantai daplangu, pulau oar dan curug cihangasa.\n\nTransit
-  di Basecamp kami, sambil ngopi-ngopi.\n\n**Hari 1 |** Sumur – handeuleum – Peucang
-  – cidaon\n\nSetelah sarapan, perjalanan dimulai dengan kapal penyebrangan menuju
-  pulau handeuleum untuk kegiatan canoe di sungai Ci genter. memasuki habitat reptil
-  dan zona badak Jawa. (Optional Tours)\n\nDilanjut perjalanan menuju pulau Peucang,
-  check in penginapan fauna (salah satu kamar yang pernah di huni oleh presiden Soeharto).\n\nMakan
-  siang, acara bebas (berenang, foto dll)\n\nSore hari tour menuju Padang gembala
-  cidaon untuk mengintip dan mengamati aktifitas banteng Java dan merak yang sedang
-  merumput, sunset di dermaga cidaon, semoga cuaca cerah untuk mendapat momen terbaik.\n\nSelamat
-  malam, makan malam kami sediakan di kapal, menu ikan bakar dan sambal khas ujung
-  kulon bagi yang tidak bisa makan ikan, bisa pesan sebelumnya untuk disiapkan ayam.\n\nNikmati
-  malam di pulau Peucang, anjangan ke rumah petugas untuk mendengan cerita / legenda
-  ujung kulon, sambil menikmati pisang goreng dan bandrek.  \n(BLD)\n\n**Hari 2**
-  | Peucang – pulau badul – sumur\n\nSelamat pagi, setelah sarapan kita akan sedikit
-  menelusuri hutan tropis pulau Peucang sekitar 1km PP , menuju pohon Kiara raksasa
-  konon pohon ini tempat bersemayam ratu ular.\n\nSelesai trekking, packing check
-  out Dan Persiapan snorkeling sekitar pulau Peucang Legon kobak, Ciapus dan citerjun.\n\nLanjut
-  perjalanan menuju sumur dan mampir di pulau badul untuk snorkeling Dan berfoto dengan
-  patung badak di bawah air (jika bisa free dive). Makan siang di pulau badul dan
-  kembali ke sumur.\n\nBersih bersih di basecamp, coffee Dan gorengan kami sediakan.
-  \ \nKembali ke jakarta. Trip selesai"
+- photoURI: "/v1601648619/images_13_xwsnkm.jpg"
+  description: Trip Pulau Liwungan Tanjung Lesung
+- photoURI: "/v1635941824/WhatsApp_Image_2021-09-14_at_22.48.14_mo7qqt.jpg"
+  description: Suasana Malam Villa Tanjung Lesung
+- photoURI: "/v1635941861/WhatsApp_Image_2021-10-30_at_10.53.33_qemkmc.jpg"
+  description: Kolam Renang Villa tanjung Lesung
+- photoURI: "/v1635941789/WhatsApp_Image_2021-10-25_at_11.32.29_ia37jx.jpg"
+  description: Open Trip Tanjung Lesung Villa Tanjung Lesung
+- photoURI: "/v1635007883/IMG-20211010-WA0088_xmiofa.jpg"
+  description: Villa Yang Digunakan saat Open Trip Tanjung Lesung
+description: |-
+  jika kamu solo traveler atau tidak memiliki kelompok untuk melakukan tour ke ujung kulon, kami menyediakan open trip pulau pecang ujung kulon dengan keberangkatan yang disesuaikan dengan jadwal yang kami miliki
+
+  **Destinasi Open Trip Tanjung Lesung**
+
+  * Kampung Nelayan
+  * Pulau Liwungan
+  * Pantai Tanjung Lesung
+  * Lalasa Beach Tanjung Lesung
+
+  **Aktifitas Open Trip Tanjung Lesung**
+
+  * Snorkeling
+  * Berlayar dengan Perahu
+  * Bermain Pantai
+  * Sunset
+  * Sunrise
+  * Game Malam
+  * Fun Game
+activity: "**ITINERARY**\n\nMeeting Point Jakarta jam 04.00\n\n**DAY 1 | Kampung Nelayan
+  -  Pulau Liwungan – Tanjung Lesung**\n\n09\\.00 – 10.00 \tMeeting Point @ Kampung
+  Nelayan, Prepare\n\n10\\.00 – 12.30\tSail to Liwungan Island, Check-in, Free Time,
+  Lunch\n\n12\\.30 – 15.00\tSnorkeling around Liwungan Island (2 Spot), Back to kampung
+  Nelayan\n\n15\\.00 – 17.00\tCheck in Villa Tanjung Lesung, Free Time\n\n17\\.00
+  – 19.00\tSunset at Tanjung Lesung Beach\n\n19\\.00 – 21.00\tDiner, Briefing, Organ
+  Tunggal Freetime, coffee time\n\n21\\.00 – 05.00\tLong Rest\n\nDAY 2 | Fun Game,
+  Doorprize\n\n07\\.00 – 08.00\tBreakfast\n\n08\\.00 – 10.00\tFun Game\n\n10\\.00
+  – 11.00\tPacking, Persiapan Check-out drop ke bus\n\n11\\.00 – 12.00\tLunch (setelah
+  check out kamar).\n\n12\\.00 - \tEnd Trip, Back to Jakarta"
 prices:
-- description: Fauna Room (Start Sumur)
-  value: 750000
-  unit: per orang
-- description: Basic Room (Start Jakarta)
-  value: 700000
-  unit: per orang
-- description: Fauna Room (Start Jakarta)
-  value: 890000
-  unit: per orang
-- description: Basic Room (Start Sumur)
-  value: 550000
+- description: Start Kampung Nelayan
+  value: 625000
+  unit: orang
+- description: Start Jakarta
+  value: 775000
   unit: orang
 categories:
-- Adventure
 - Open Trip
 facilities:
+- BBQ
 - Makan
 - Fotografer
 - Transportasi
@@ -65,41 +62,18 @@ facilities:
 - Asuransi
 promotions: []
 notes: |-
-  **Harga Tidak Termasuk**
+  **Harga Open Trip Tanjung Lesung Tidak Termasuk**
 
-  1. Bersampan di Sungai Cigenter Rp. 50.000/org
-  2. Sewa alat snorkeling Rp. 50.000
-  3. Upgrade Room (Batik/Angklung)
+  1. Tips Crew (Pemandu, ABK, Driver)
+  2. Aktifitas Watersport
 
   Reservasi dilakukan H-1 Minggu Sebelum Jadwal Keberangkatan
 
-  **Jadwal Keberangkatan Open Trip Pulau Peucang**
+  **Jadwal Keberangkatan Open Trip Tanjung Lesung**
 
-  Desember 2021 : 17-19
+  Promo Spesial **Tahun Baru** 2021 menuju 2022
 
-  Januari 2022 : 14 - 16
-
-  Februari 2022 : 11 - 13
-
-  Maret 2022 : 11 - 13
-
-  April 2022 : 15 - 17
-
-  Mei 2022 : 13 - 15
-
-  Juni 2022 : 17 - 19
-
-  Juli 2022 : 15 - 17
-
-  Agustus : 12 - 14
-
-  September 2022 : 16 - 18
-
-  Oktober 2022 : 14 - 16
-
-  Nopember 2022 : 18 - 20
-
-  Desember 2022 : 16 - 18
+  31 Desember 2021 - 1 Januari 2022
 title: Open Trip Tanjung Lesung.md
 
 ---
