@@ -2,6 +2,8 @@
 contact: Contact Us
 name: 'Open Trip Pulau Peucang Ujung Kulon '
 photos:
+- photoURI: "/v1601648462/IMG_20201002_200938_655_hekk4e.jpg"
+  description: Patai Pula Peucang Ujung Kulon
 - photoURI: "/v1635933577/Banteng_Cidaon_Ujung_kulon_-_Copy_j0ha8b.jpg"
   description: Padang Gembala Cidaon (Mengintip Kawanan Banteng dan Merak Liar)
 description: jika kamu solo traveler atau tidak memiliki kelompok untuk melakukan
