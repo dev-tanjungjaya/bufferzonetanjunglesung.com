@@ -2,7 +2,7 @@
 contact: Contact Us
 name: 'Open Trip Pulau Peucang Ujung Kulon '
 photos:
-- photoURI: "/v1635938171/org_e427651c418fc64f_1507338371000_y9zegz.jpg"
+- photoURI: "/v1635938237/org_8fdc12da38bc35f4_1507431969000_kmyxw5.jpg"
   description: Pulau Peucang Taman Nasional Ujung Kulon
 - photoURI: "/v1601648462/IMG_20201002_200938_655_hekk4e.jpg"
   description: Pantai Pulau Peucang Ujung Kulon
