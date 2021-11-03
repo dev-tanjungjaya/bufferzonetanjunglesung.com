@@ -45,9 +45,7 @@ roomFacilities:
 - Kamar mandi dalam
 promotions: []
 notes: |-
-  Villa Termasuk Makan 3 Kali (BLD)
-
-  maksimal untuk 12 Orang
+  Villa Termasuk Makan 3 Kali (BLD) untuk 12 Orang
 
   Waktu Check-in jam 14.00 WIB
 
