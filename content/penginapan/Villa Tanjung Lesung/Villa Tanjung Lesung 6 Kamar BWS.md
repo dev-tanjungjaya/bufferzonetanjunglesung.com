@@ -47,6 +47,8 @@ promotions: []
 notes: |-
   Villa Termasuk Makan 3 Kali (BLD)
 
+  maksimal untuk 12 Orang
+
   Waktu Check-in jam 14.00 WIB
 
   Check-out Maksimal jam 12.00 WIB
