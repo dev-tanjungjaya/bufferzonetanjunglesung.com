@@ -2,7 +2,7 @@
 coordinate:
   lat: 0
   lng: 0
-contact: Tanjungjaya
+contact: Contact Us
 name: Lalasa Beach Club
 photos:
 - photoURI: "/v1627728590/Lalassa-New-Beach-Club-1024x768_nu0gvo.jpg"
@@ -16,7 +16,7 @@ gmaps: https://www.google.com/maps/dir/Tanjungjaya,+Pandeglang+Regency,+Banten/L
 prices:
 - description: 'Harga '
   unit: orang
-  value: 60.0
+  value: 60000
 hours:
 - open: 7:00 AM
   close: 7:00 PM
