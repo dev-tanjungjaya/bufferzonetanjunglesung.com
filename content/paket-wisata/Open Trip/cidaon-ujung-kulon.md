@@ -8,9 +8,12 @@ photos:
   description: Pantai Pulau Peucang Ujung Kulon
 - photoURI: "/v1635933577/Banteng_Cidaon_Ujung_kulon_-_Copy_j0ha8b.jpg"
   description: Padang Gembala Cidaon (Mengintip Kawanan Banteng dan Merak Liar)
-description: jika kamu solo traveler atau tidak memiliki kelompok untuk melakukan
+description: "jika kamu solo traveler atau tidak memiliki kelompok untuk melakukan
   tour ke ujung kulon, kami menyediakan open trip pulau pecang ujung kulon dengan
-  keberangkatan yang disesuaikan dengan jadwal yang kami miliki
+  keberangkatan yang disesuaikan dengan jadwal yang kami miliki \n\n**Destinasi Open
+  Trip Pulau Peucang Ujung Kulon**\n\nPulau Peucang\n\nPadang Gembala Cidaon\n\nSnorkeling
+  Point Ciapus\n\nSnorkeling Point Legon Sumino\n\nPohon Kiara Raksasa\n\nSungai CIgenter
+  (additional)"
 activity: "**ITINERARY**\n\n**Tour Program**\n\nSebaiknya berangkat dari jakarta pukul
   20.00/21.00 perjalanan menuju sumur sekitar 5-6 jam.\n\nPeserta Sampai di sumur
   sekitar jam 4/5 pagi hari.\n\natau bisa bermalam dahulu di sumur dan mengunjungi
