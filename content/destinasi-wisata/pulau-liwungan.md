@@ -32,22 +32,10 @@ description: |-
   Bagaimana? Seru kan?
 gmaps: https://goo.gl/maps/q5mzWQ5eXVABGagEA
 prices:
-- description: Tiket masuk pulau Liwungan
-  value: 10000
-  unit: orang
-- description: Sewa perahu motor (kapasitas 12 orang)
-  value: 600000
-  unit: kapal
-- description: Wahana Banana Boat (kapasitas 6 orang)
-  value: 150000
-  unit: wahana
 - description: Kamar mandi
   value: 5000
   unit: orang
-hours:
-- description: Senin-Minggu
-  open: 7:00 AM
-  close: 5:00 PM
+hours: []
 categories:
 - Alam
 facilities:
@@ -59,6 +47,6 @@ facilities:
 promotions: []
 notes: Untuk info akomodasi dan paket wisata selengkapnya silahkan cek menu Paket
   Wisata.
-contact: Banyuasih
+contact: Contact Us
 
 ---
