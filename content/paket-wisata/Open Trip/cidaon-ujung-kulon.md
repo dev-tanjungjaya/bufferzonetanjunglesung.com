@@ -39,11 +39,11 @@ activity: "**ITINERARY**\n\n**Tour Program**\n\nSebaiknya berangkat dari jakarta
   kembali ke sumur.\n\nBersih bersih di basecamp, coffee Dan gorengan kami sediakan.
   \ \nKembali ke jakarta. Trip selesai"
 prices:
-- description: Fauna Room (Start Sumur)
-  value: 750000
-  unit: per orang
 - description: Basic Room (Start Jakarta)
   value: 700000
+  unit: per orang
+- description: Fauna Room (Start Sumur)
+  value: 750000
   unit: per orang
 - description: Fauna Room (Start Jakarta)
   value: 890000
