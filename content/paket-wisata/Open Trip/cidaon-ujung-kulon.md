@@ -14,6 +14,9 @@ activity: |-
 
   Jumat, Day 1 | Meeting Point Jakarta
 prices:
+- description: Fauna Room (Start Jakarta)
+  value: 890000
+  unit: per orang
 - description: Basic Room (Start Sumur)
   value: 550000
   unit: orang
