@@ -66,6 +66,7 @@ notes: |-
 
   1. Tips Crew (Pemandu, ABK, Driver)
   2. Aktifitas Watersport
+  3. Beer
 
   Reservasi dilakukan H-1 Minggu Sebelum Jadwal Keberangkatan
 
