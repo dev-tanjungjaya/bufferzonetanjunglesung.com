@@ -14,6 +14,9 @@ activity: |-
 
   Jumat, Day 1 | Meeting Point Jakarta
 prices:
+- description: Basic Room (Start Sumur)
+  value: 550000
+  unit: orang
 - description: Basic Room (Start Jakarta)
   value: 700000
   unit: per orang
@@ -30,6 +33,13 @@ facilities:
 - Tiket
 - Asuransi
 promotions: []
-notes: Reservasi dilakukan H-1 Minggu Sebelum Jadwal Keberangkatan
+notes: |-
+  **Harga Tidak Termasuk**
+
+  Bersampan di Sungai Cigenter Rp. 50.000/org
+
+  Sewa alat snorkeling Rp. 50.000
+
+  Reservasi dilakukan H-1 Minggu Sebelum Jadwal Keberangkatan
 
 ---
