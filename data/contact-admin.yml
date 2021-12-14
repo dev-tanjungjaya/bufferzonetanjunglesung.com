@@ -8,7 +8,7 @@ contacts:
 - admin: Deden
   contacts:
   - phoneNumber: "+62 817-849-463"
-    whatsapp: false
+    whatsapp: true
 - admin: Huddan
   contacts:
   - phoneNumber: '082260999093'
