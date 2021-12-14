@@ -5,6 +5,10 @@ admins:
 - Deden
 - Yopi
 contacts:
+- admin: Karim
+  contacts:
+  - phoneNumber: "+62 852-1046-8664"
+    whatsapp: true
 - admin: Deden
   contacts:
   - phoneNumber: "+62 817-849-463"
