@@ -5,7 +5,7 @@ admins:
 - Deden
 - Yopi
 contacts:
-- admin: ''
+- admin: Huddan
   contacts:
   - phoneNumber: '082260999093'
     whatsapp: true
