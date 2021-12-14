@@ -7,5 +7,7 @@ admins:
 contacts:
 - admin: Yopi
   contacts:
+  - phoneNumber: '082260999093'
+    whatsapp: true
   - phoneNumber: "6285770907674"
     whatsapp: true
