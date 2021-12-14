@@ -5,9 +5,11 @@ admins:
 - Deden
 - Yopi
 contacts:
-- admin: Yopi
+- admin: ''
   contacts:
   - phoneNumber: '082260999093'
     whatsapp: true
+- admin: Yopi
+  contacts:
   - phoneNumber: "6285770907674"
     whatsapp: true
