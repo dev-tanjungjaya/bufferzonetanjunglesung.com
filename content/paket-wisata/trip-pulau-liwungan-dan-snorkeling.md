@@ -1,5 +1,5 @@
 ---
-contact: Citeureup
+contact: Huddan
 name: Trip Pulau Liwungan dan Snorkeling (Cikadu Edutourism Centre)
 photos:
 - photoURI: "/v1601648619/images_14_w2kez1.jpg"
