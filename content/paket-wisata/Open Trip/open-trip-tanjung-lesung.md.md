@@ -1,5 +1,5 @@
 ---
-contact: Contact Us
+contact: Huddan
 name: Promo Open Trip Tanjung Lesung Special Tahun Baru 2022
 photos:
 - photoURI: "/v1601648619/images_13_xwsnkm.jpg"
