@@ -1,5 +1,5 @@
 ---
-contact: Cikadu
+contact: Sumur
 name: Eduwisata Bahari
 photos:
 - photoURI: paket-eduwisata-bahari-1_vfcju0.jpg

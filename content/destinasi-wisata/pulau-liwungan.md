@@ -32,6 +32,9 @@ description: |-
   Bagaimana? Seru kan?
 gmaps: https://goo.gl/maps/q5mzWQ5eXVABGagEA
 prices:
+- description: TIket Masuk
+  value: 15000
+  unit: orang
 - description: Kamar mandi
   value: 5000
   unit: orang
@@ -47,6 +50,6 @@ facilities:
 promotions: []
 notes: Untuk info akomodasi dan paket wisata selengkapnya silahkan cek menu Paket
   Wisata.
-contact: Contact Us
+contact: Citereup
 
 ---
