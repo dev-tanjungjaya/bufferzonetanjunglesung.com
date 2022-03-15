@@ -1,9 +1,9 @@
 ---
 coordinate:
-  lat: 0
-  lng: 0
+  lat: 
+  lng: 
 category: Homestay
-contact: Cigeulis
+contact: Sumur
 name: Wisma Sarang Badak
 photos:
 - photoURI: "/v1601217721/sarang_badak_flyer_oz7hnm.jpg"

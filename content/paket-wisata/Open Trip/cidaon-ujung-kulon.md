@@ -1,5 +1,5 @@
 ---
-contact: Contact Us
+contact: Sumur
 name: 'Open Trip Pulau Peucang Ujung Kulon '
 photos:
 - photoURI: "/v1635938329/DSC_9470_kdzjnf.jpg"
