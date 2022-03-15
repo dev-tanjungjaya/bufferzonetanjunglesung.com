@@ -5,19 +5,19 @@ admins:
 - Citereup
 - Cigeulis
 contacts:
-- admin: Karim
-  contacts:
-  - phoneNumber: "+62 852-1046-8664"
-    whatsapp: true
-- admin: Deden
-  contacts:
-  - phoneNumber: "+62 817-849-463"
-    whatsapp: true
-- admin: Huddan
+- admin: Sumur
   contacts:
   - phoneNumber: '082260999093'
     whatsapp: true
-- admin: Yopi
+- admin: Citereup
+  contacts:
+  - phoneNumber: "+62 817-849-463"
+    whatsapp: true
+- admin: Cikadu
+  contacts:
+  - phoneNumber: "+62 852-1046-8664"
+    whatsapp: true
+- admin: Cigeulis
   contacts:
   - phoneNumber: "6285770907674"
     whatsapp: true
