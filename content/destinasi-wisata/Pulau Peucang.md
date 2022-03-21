@@ -15,7 +15,7 @@ description: |-
   pantai di sini seperti butiran bedak karena sangat halus. namun ada beberapa hewan liar yang mendiami pulau ini, seperti babi hutan, monyet ekor panjang, biawak, rusa, dan burung burung besar seperti elang jawa dan rangkong (Rhino Honr Bil)
 
   Meski jarak yang cukup jauh untuk menuju pulau ini, dijamin kamu akan terbuai dan malas untuk pulang kerumah, apalagi kalo jalannya sama sidia. muehehe
-gmaps: ''
+gmaps: https://www.google.com/maps/place/Pulau+Peutjang/@-6.739444,105.2388793,14z/data=!3m1!4b1!4m5!3m4!1s0x2e439b0d0dddbff1:0x9c4348a55ffa4458!8m2!3d-6.7394444!4d105.2563889
 prices:
 - description: Kapal Penyebrangan
   value: 250000
