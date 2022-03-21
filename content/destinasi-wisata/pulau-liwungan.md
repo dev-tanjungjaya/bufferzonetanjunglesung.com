@@ -50,6 +50,6 @@ facilities:
 promotions: []
 notes: Untuk info akomodasi dan paket wisata selengkapnya silahkan cek menu Paket
   Wisata.
-contact: Citereup
+contact: Sumur
 
 ---
